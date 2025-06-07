@@ -5,7 +5,7 @@
 
 ## 👤 Developer
 
-* [Angel Friedirich](https://github.com?angelfr14) Role: Solo Web Developer
+* [Angel Friedirich](https://github.com?angelfr14) Role: Solo Web Developer.
     ## 📚 About This Project
 
 This website was developed as a personal project to showcase my skills in HTML, CSS, and responsive web design. It simulates a modern burger restaurant website, featuring a dynamic menu, interactive location maps, and dedicated pages for contact and information. The goal was to build a clean, user-friendly interface optimized for various devices and demonstrate a comprehensive static website build.
