@@ -33,29 +33,7 @@ This website was developed as a personal project to showcase my skills in HTML, 
 ### Markup languages:
 ![HTML5 Icon](https://cdn-icons-png.flaticon.com/256/919/919827.png) ![CSS3 Icon](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz_94TVBd6jpFEXcTRknhZlbmov5yyHzqC8Q&s) 
 
-### To run this project locally, follow these steps:
 
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/your-username/fresh-burgers-website.git](https://github.com/your-username/fresh-burgers-website.git)
-    ```
-    (Replace `your-username` with your GitHub username and `fresh-burgers-website` with your actual repo name)
-
-2.  **Navigate to the project directory:**
-    ```bash
-    cd fresh-burgers-website
-    ```
-
-3.  **Open `index.html` in your browser:**
-    Simply double-click the `index.html` file in your file explorer, or open it using a live server extension in your code editor (e.g., Live Server for VS Code).
-
-    * **Note:** For the contact form to actually send emails, you would need a backend server configured to handle form submissions (e.g., using Node.js, Python, PHP). This frontend project does not include backend functionality.
-
-## 💡 Usage
-
-* Explore the navigation bar to visit different sections of the website.
-* Hover over the "EN" button in the navigation to change the displayed language (Note: actual language translation is a frontend placeholder; backend integration would be required for full functionality).
-* View the dynamic hero section on the home page.
 * Check out the menu, locations, and read about our story.
 
 ---
