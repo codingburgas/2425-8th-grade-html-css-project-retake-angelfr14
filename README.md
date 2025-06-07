@@ -1,8 +1,11 @@
-# Quick Foods Website
+# Quick Foods Website                                                 
+<p align="center">
+  <img src="project/images/logo.png" alt="Fresh Burgers Hero Image">
+</p>                                                                               
 
-![Quick Foods](C:\Users\wewew\Desktop\project\logo.png) ## 👤 Developer
+## 👤 Developer
 
-* Angel Pierre Andre Friedirich
+* [Angel Friedirich](https://github.com?angelfr14) Role: Solo Web Developer
     ## 📚 About This Project
 
 This website was developed as a personal project to showcase my skills in HTML, CSS, and responsive web design. It simulates a modern burger restaurant website, featuring a dynamic menu, interactive location maps, and dedicated pages for contact and information. The goal was to build a clean, user-friendly interface optimized for various devices and demonstrate a comprehensive static website build.
@@ -26,12 +29,11 @@ This website was developed as a personal project to showcase my skills in HTML, 
 * **Font Awesome:** Vector icons for UI elements.
 
 ### Code editors and collaborative services used:
-![VS Code Icon](path/to/vscode-icon.png) ![GitHub Icon](path/to/github-icon.png) ### Markup languages:
-![HTML5 Icon](path/to/html5-icon.png) ![CSS3 Icon](path/to/css3-icon.png) ### Softwares used for visual elements:
-![Photoshop Icon](path/to/photoshop-icon.png) ![Adobe XD Icon](path/to/adobe-xd-icon.png) ### Used programs for creating the presentation and documentation:
-![PowerPoint Icon](path/to/powerpoint-icon.png) ![Word Icon](path/to/word-icon.png) ## 📦 Installation & Setup
+![VS Code Icon](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMh90ZmPZWpDOZcGHRYikeF3JrnBUa2TJTMw&s) ![GitHub Icon](https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/v1426048404/y4lxnqcngh5dvoaz06as.png) 
+### Markup languages:
+![HTML5 Icon](https://cdn-icons-png.flaticon.com/256/919/919827.png) ![CSS3 Icon](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz_94TVBd6jpFEXcTRknhZlbmov5yyHzqC8Q&s) 
 
-To run this project locally, follow these steps:
+### To run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
