@@ -1,8 +1,8 @@
-# Fresh Burgers Website
+# Quick Foods Website
 
 logo.png ## 👤 Developer
 
-* Angel pierre Andre Friedirich
+* Angel Pierre Andre Friedirich
     ## 📚 About This Project
 
 This website was developed as a personal project to showcase my skills in HTML, CSS, and responsive web design. It simulates a modern burger restaurant website, featuring a dynamic menu, interactive location maps, and dedicated pages for contact and information. The goal was to build a clean, user-friendly interface optimized for various devices and demonstrate a comprehensive static website build.
