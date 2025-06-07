@@ -27,13 +27,9 @@ This website was developed as a personal project to showcase my skills in HTML, 
 * **CSS3:** Styling and layout, including Flexbox and Grid for responsiveness.
 * **Google Fonts:** Custom typography (`Lobster`, `Satisfy`, `Roboto`).
 * **Font Awesome:** Vector icons for UI elements.
-
 ### Code editors and collaborative services used:
 ![VS Code Icon](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMh90ZmPZWpDOZcGHRYikeF3JrnBUa2TJTMw&s) ![GitHub Icon](https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/v1426048404/y4lxnqcngh5dvoaz06as.png) 
 ### Markup languages:
 ![HTML5 Icon](https://cdn-icons-png.flaticon.com/256/919/919827.png) ![CSS3 Icon](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz_94TVBd6jpFEXcTRknhZlbmov5yyHzqC8Q&s) 
-
-
-* Check out the menu, locations, and read about our story.
 
 ---
