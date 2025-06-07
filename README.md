@@ -1,6 +1,6 @@
 # Quick Foods Website
 
-ThisPC/project/logo.png/ ## 👤 Developer
+![Qucik Foods Logo](ThisPC/project/logo.png/) ## 👤 Developer
 
 * Angel Pierre Andre Friedirich
     ## 📚 About This Project
