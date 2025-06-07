@@ -1,0 +1,168 @@
+/* About Us Page Specific Styles */
+
+.about-page-main .container {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    border-radius: 8px;
+}
+
+.about-intro {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.about-intro h2 {
+    font-size: 3em;
+    color: #CC0000;
+    margin-bottom: 25px;
+}
+
+.about-intro p {
+    font-size: 1.1em;
+    line-height: 1.7;
+    max-width: 800px;
+    margin: 0 auto 20px auto;
+    color: #555;
+}
+
+.about-main-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    margin-top: 20px;
+}
+
+.about-mission,
+.about-values,
+.about-team {
+    margin-bottom: 40px;
+    padding: 20px;
+    border: 1px solid #eee;
+    border-radius: 8px;
+    background-color: #fcfcfc;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.about-mission h3,
+.about-values h3,
+.about-team h3 {
+    text-align: center;
+    font-size: 2.2em;
+    color: #CC0000;
+    margin-bottom: 25px;
+    border-bottom: 2px solid #f0f0f0;
+    padding-bottom: 15px;
+}
+
+.about-mission p,
+.about-team p {
+    font-size: 1.1em;
+    line-height: 1.7;
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto 20px auto;
+    color: #555;
+}
+
+.values-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 30px;
+    margin-top: 30px;
+}
+
+.value-item {
+    text-align: center;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.08);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.value-item i {
+    font-size: 3em;
+    color: #CC0000;
+    margin-bottom: 15px;
+}
+
+.value-item h4 {
+    font-size: 1.6em;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.value-item p {
+    font-size: 1em;
+    color: #666;
+    line-height: 1.6;
+    margin-bottom: 0;
+}
+
+/* Responsive adjustments for About Us page */
+@media (max-width: 768px) {
+    .about-intro h2,
+    .about-mission h3,
+    .about-values h3,
+    .about-team h3 {
+        font-size: 2em;
+    }
+
+    .about-intro p,
+    .about-mission p,
+    .about-team p {
+        font-size: 1em;
+    }
+
+    .values-grid {
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 20px;
+    }
+
+    .value-item i {
+        font-size: 2.5em;
+    }
+
+    .value-item h4 {
+        font-size: 1.4em;
+    }
+}
+
+@media (max-width: 480px) {
+    .about-intro h2,
+    .about-mission h3,
+    .about-values h3,
+    .about-team h3 {
+        font-size: 1.8em;
+        margin-bottom: 15px;
+        padding-bottom: 10px;
+    }
+
+    .about-intro p,
+    .about-mission p,
+    .about-team p {
+        font-size: 0.95em;
+    }
+
+    .values-grid {
+        grid-template-columns: 1fr;
+        gap: 15px;
+    }
+
+    .value-item i {
+        font-size: 2em;
+    }
+
+    .value-item h4 {
+        font-size: 1.2em;
+    }
+
+    .about-page-main .container {
+        padding: 20px 15px;
+    }
+}
